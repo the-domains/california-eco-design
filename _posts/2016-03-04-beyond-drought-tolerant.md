@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: There is no need for droughts to be drab. There is a distinct tropical vibe in this succulent and juicy garden.
-datePublished: '2016-03-04T05:26:36.373Z'
-dateModified: '2016-03-04T05:25:28.170Z'
+datePublished: '2016-03-04T05:39:44.977Z'
+dateModified: '2016-03-04T05:26:46.005Z'
 title: Beyond Drought Tolerant
 author: []
+sourcePath: _posts/2016-03-04-beyond-drought-tolerant.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-03-04-beyond-drought-tolerant.md
-published: true
 url: beyond-drought-tolerant/index.html
 _type: Article
 
